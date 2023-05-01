@@ -16,6 +16,9 @@ Connect the motors to the Raspberry Pi Pico.
 Copy the code into a Python file.
 Run the code.
 
+To run the python files, the code requires the "pygame module" which can be indtalled by the command:
+``` pip install pygame ```
+
 # Usage
 
 The quadcopter can be controlled remotely using a joystick. To do this, connect a joystick to the Raspberry Pi Pico. The joystick will control the pitch, yaw, and roll of the quadcopter.
